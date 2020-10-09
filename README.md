@@ -8,7 +8,7 @@
 
 ## Installation
 <ol>
-    <li>Clone the repo: git clone https://github.com/cesarreboucas/PostTracking.git .</li>
+    <li>Clone the repository.</li>
     <li>Start MySQL (Make sure there is a root user with a blank password :blush: ).</li>
     <li>Create a Database called `posttracking`.</li>
     <li>Fire up ECLIPSE.</li>
